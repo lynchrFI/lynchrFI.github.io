@@ -5,6 +5,7 @@ date:       2020-02-23 23:58:52 -0500
 permalink:  lynchs_game_reviews
 ---
 
+![](https://i.imgur.com/WEj49fZ.png) 
 
 Hello everyone! Today I have the honor of saying, I have completed my second project. It has been a very interesting, challenging, but exciting ride so far. As our second chapter comes to a close I can definitely say it's been a wild ride so far. I have felt like dropping the course at times, but I've also felt like I was on top of the world learning this stuff! With this project, I was finally at a point where I felt like I was able to show it off to my friends.
 
